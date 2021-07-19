@@ -5,6 +5,9 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+# Byproduct file, created automathically
+RF_regions_id_geometry.geojson
+*/RF_regions_id_geometry.geojson/*
 
 # C extensions
 *.so
