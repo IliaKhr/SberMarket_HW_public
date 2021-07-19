@@ -12,6 +12,9 @@ RF_regions_id_geometry.geojson
 # C extensions
 *.so
 
+# Pictures
+*.png
+
 # Distribution / packaging
 .Python
 build/
